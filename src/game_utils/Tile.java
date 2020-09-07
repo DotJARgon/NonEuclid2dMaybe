@@ -18,7 +18,4 @@ public class Tile {
         }
     }
 
-//    public double raycast(double a) {
-//
-//    }
 }

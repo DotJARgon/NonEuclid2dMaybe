@@ -10,7 +10,7 @@ public class App extends JFrame {
     public App() {
         gui = new GUI();
         setPreferredSize(Toolkit.getDefaultToolkit().getScreenSize());
-        setResizable(false);
+//        setResizable(false);
         setFocusable(true);
         addMouseListener(gui);
         addMouseWheelListener(gui);
